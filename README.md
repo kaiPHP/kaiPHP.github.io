@@ -34,6 +34,8 @@ kaiPHP个人博客
  * )
  * ),
  */
+ 
+ 
 function down_personal_excel(array $data, $filename = '', array $mergeCells = array(), $style = array('height' => '20'), $sheetname = 'MCW', $objectPHPExcel = '', $i = 1, $end = true, $sheetIndex = 0)
 {
 //function downPersonalExcel(array $data, $style = array(), $sheetname= '', $filename='', $objectPHPExcel = '', $i = 1, $end = true, array $mergeCells=array(), $sheetIndex = 0) {
