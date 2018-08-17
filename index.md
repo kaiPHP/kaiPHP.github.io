@@ -6,7 +6,7 @@
 
 ```markdown
 
-# 分享封装PHP导出excel方法支持多种样式
+# 分享封装PHP支持多种样式 代码如下
 
 /**
  * Excel 导出excel 到本地
